@@ -1,3 +1,22 @@
 Tarımsal alanlarda faaliyet göstermesini düşündüğümüz sistemimiz,
 varolan fiziksel yönetim anlayışını otomasyon sistemi üzerinden yönetimini 
 kolaylaştırmayı ve verimliliği maksimum düzeyde tutmayı amaçlamaktadır.
+
+
+Sistemler hakkında bir kaç bilgi:
+
+Odalı püskürtme sera sistemi:
+
+- Bazı sera sistemleri odalara ayrılmakta, bu odaların ortam sıcaklığı ve nem değerleri belli mesafe aralıklarla sürekli ölçülmekte.
+- odalarda nem oranına göre su fıskiyeleri belirli süre aralıklarla çalıştırılmaktadır
+- bu odalara gelen sular her odaya ayrı olmak üzere depolardan gelmektedir.Ve bu depoların içerisinde Ec,Ph,sıcaklık ve belirli sensörlerle ölçüm yapılmaktadır.
+- yukarıdaki sistemde sadece sisteme entegre sensörlerden bilgiler alınarak fiziksel müdahaleler yapılmaktadır*
+
+Normal Sera İşletmesi:
+- Ortam nem,ısı değeri alınarak mekanik tetikleyicilerle veya manuel müdahale yapılmakta.
+- Bu değerler bazı noktalardan alınmakta ve optimum değer olarak kullanılmaktadır.
+
+Topraksız tarım Serası:
+-Ortam ısı ve nem değeri alınmaktadır
+- Suyun Ec,ph ve sıcaklık değeri alınmakta buna karşılık ph düzenlenmesi yapılmakta. Ec değeri istenilenin altındaysa besin takviyesi yapılmakta eğer değer yüksek ise su takviyesi yapılmaktadır.
+-Sıcaklık bitkiye uygun değilse düzenleme yapılmaktadır.
